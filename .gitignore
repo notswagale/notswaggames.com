@@ -1,6 +1,2 @@
-# Ignore everything by default
 *
-
-# But keep this file so the ignore rules persist
 !.gitignore
-
