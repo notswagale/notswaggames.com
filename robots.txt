@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://notswaggames.com/sitemap.xml
